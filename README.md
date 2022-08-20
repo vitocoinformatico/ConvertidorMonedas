@@ -1,5 +1,7 @@
 # Conversor de Moneda
 
+![imagen_inicial](https://user-images.githubusercontent.com/78666247/185733039-f8c3083a-7c97-4cd6-887a-16d754759326.PNG)
+
 En esta oportunidad se nos solicita crear un conversor de divisas utilizando
 el lenguaje Java. Las caracteristicas solicitadas por nuestro cliente son las 
 siguientes:
